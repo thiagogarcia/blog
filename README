@@ -1,0 +1,3 @@
+Blog
+- Includes sample code for tutorials from the blog.
+- To run, it requires Maven, Spring Roo and Tomcat7.
